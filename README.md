@@ -13,3 +13,7 @@ How to use
 2. Exeute ./getTaxiData.sh
 3. wait - this may take up to 1 hour or more.  
 
+Or
+run ./getTaxiDataV2.sh
+which will run 6 threads of wget
+I like this one
